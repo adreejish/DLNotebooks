@@ -4,3 +4,7 @@ lib/*
 include/*
 lib64/*
 share/*
+.ipynb_checkpoints/
+lib64/
+model_checkpoints/
+pyvenv.cfg
