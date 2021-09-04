@@ -6,7 +6,7 @@ To run locally:
     pip3 install -r requirements.txt
     jupyter notebook
    ```
-Create a folder within the directory named datasets and add relevant datasets.
+Create a folder within the directory named datasets and add relevant datasets.<br>
 Please note that you're using Python3.7 and above 
 
 ### FSRCNN - Fast Super-Resolution Convolutional Neural Networks <br>
