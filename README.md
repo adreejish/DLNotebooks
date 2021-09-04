@@ -8,11 +8,11 @@ To run locally:
    ```
 Create a folder within the directory named datasets and add relevant datasets.
 
-# FSRCNN - Fast Super-Resolution Convolutional Neural Networks
-FSRCNN trained on DIV2K dataset and a scaling factor of 4
-**paper** : [Accelerating the Super-Resolution Convolutional Neural Network,Chao Dong,et al.](https://arxiv.org/abs/1608.00367)
-**dataset** : [DIV2K dataset](https://www.kaggle.com/joe1995/div2k-dataset)
-**notebook** : [link](https://github.com/adreejish/DLNotebooks/blob/master/FSRCNN.ipynb)
-**model** : [link](https://github.com/adreejish/DLNotebooks/tree/master/models/fsrcnn)
+### FSRCNN - Fast Super-Resolution Convolutional Neural Networks <br>
+FSRCNN trained on DIV2K dataset and a scaling factor of 4 <br>
+**paper** : [Accelerating the Super-Resolution Convolutional Neural Network,Chao Dong,et al.](https://arxiv.org/abs/1608.00367) <br>
+**dataset** : [DIV2K dataset](https://www.kaggle.com/joe1995/div2k-dataset)<br>
+**notebook** : [link](https://github.com/adreejish/DLNotebooks/blob/master/FSRCNN.ipynb)<br>
+**model** : [link](https://github.com/adreejish/DLNotebooks/tree/master/models/fsrcnn)<br>
 
 
