@@ -8,3 +8,4 @@ share/*
 lib64/
 model_checkpoints/
 pyvenv.cfg
+lib64
