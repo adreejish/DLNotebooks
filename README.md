@@ -7,6 +7,7 @@ To run locally:
     jupyter notebook
    ```
 Create a folder within the directory named datasets and add relevant datasets.
+Please note that you're using Python3.7 and above 
 
 ### FSRCNN - Fast Super-Resolution Convolutional Neural Networks <br>
 FSRCNN trained on DIV2K dataset and a scaling factor of 4 <br>
