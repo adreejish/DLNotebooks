@@ -22,7 +22,7 @@ DCGAN trained on images of abstract art <br>
 **dataset** : [Abstract art datset](https://www.kaggle.com/bryanb/abstract-art-gallery)<br>
 **notebook** : [link](https://github.com/adreejish/DLNotebooks/blob/master/DCGAN.ipynb)<br>
 **model** : [link](https://github.com/adreejish/DLNotebooks/tree/master/models/dcgan)<br>
-code for overriding train step from [here](https://www.tensorflow.org/tutorials/generative/dcgan)
+code for overriding train step from [here](https://www.tensorflow.org/tutorials/generative/dcgan)<br>
 model checkpoints are not included in the repo for this implementation
 
 
