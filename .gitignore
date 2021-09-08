@@ -6,7 +6,7 @@ lib64/*
 share/*
 .ipynb_checkpoints/
 lib64/
-model_checkpoints/
+
 pyvenv.cfg
 lib64
 DCGAN_untrained.ipynb
