@@ -16,4 +16,14 @@ FSRCNN trained on DIV2K dataset and a scaling factor of 4 <br>
 **notebook** : [link](https://github.com/adreejish/DLNotebooks/blob/master/FSRCNN.ipynb)<br>
 **model** : [link](https://github.com/adreejish/DLNotebooks/tree/master/models/fsrcnn)<br>
 
+### DCGAN - Deep Convolutional Generative Adversarial Networks <br>
+DCGAN trained on images of abstract art <br>
+**paper** : [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks,Alec Radford, Luke Metz, Soumith Chintala](https://arxiv.org/abs/1511.06434) <br>
+**dataset** : [Abstract art datset](https://www.kaggle.com/bryanb/abstract-art-gallery)<br>
+**notebook** : [link](https://github.com/adreejish/DLNotebooks/blob/master/DCGAN.ipynb)<br>
+**model** : [link](https://github.com/adreejish/DLNotebooks/tree/master/models/dcgan)<br>
+code for overriding train step from [here](https://www.tensorflow.org/tutorials/generative/dcgan)
+model checkpoints are not included in the repo for this implementation
+
+
 
