@@ -9,3 +9,6 @@ lib64/
 model_checkpoints/
 pyvenv.cfg
 lib64
+DCGAN_untrained.ipynb
+generated_images/*
+Untitled.ipynb
